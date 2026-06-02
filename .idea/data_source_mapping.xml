@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/02_product_list.sql" value="5929d0fb-1eb0-4ea5-ab6e-5938a966cb31" />
+    <file url="file://$PROJECT_DIR$/03_product_list_ascending.sql" value="5929d0fb-1eb0-4ea5-ab6e-5938a966cb31" />
+    <file url="file://$PROJECT_DIR$/04_product_list.sql" value="5929d0fb-1eb0-4ea5-ab6e-5938a966cb31" />
+  </component>
+</project>
