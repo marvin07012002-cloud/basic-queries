@@ -1,3 +1,3 @@
 select *
 from Products
-where UnitPrice < 7.50
+where UnitPrice <= 7.50
