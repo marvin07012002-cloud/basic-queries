@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72c7ed45-b63a-4860-9fc2-a8bc930aca27" name="Changes" comment="sql updated">
-      <change afterPath="$PROJECT_DIR$/03_product_list_ascending.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_product_list.sql" beforeDir="false" afterPath="$PROJECT_DIR$/02_product_list.sql" afterDir="false" />
+    <list default="true" id="72c7ed45-b63a-4860-9fc2-a8bc930aca27" name="Changes" comment="DISTINCT">
+      <change afterPath="$PROJECT_DIR$/14_Salary.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "database.query.execution",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   },
@@ -89,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780339956046</updated>
-      <workItem from="1780406986238" duration="1342000" />
+      <workItem from="1780406986238" duration="6084000" />
     </task>
     <task id="LOCAL-00001" summary="sql">
       <option name="closed" value="true" />
@@ -107,7 +106,79 @@
       <option name="project" value="LOCAL" />
       <updated>1780343003454</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sql added asc in UnitPrice">
+      <option name="closed" value="true" />
+      <created>1780408393531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780408393531</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Unit price &lt; 7.50">
+      <option name="closed" value="true" />
+      <created>1780408639813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780408639813</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Unit price &lt; 7.50 corrected">
+      <option name="closed" value="true" />
+      <created>1780408707327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780408707328</updated>
+    </task>
+    <task id="LOCAL-00006" summary="05 done">
+      <option name="closed" value="true" />
+      <created>1780409055724</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1780409055725</updated>
+    </task>
+    <task id="LOCAL-00007" summary="05 done">
+      <option name="closed" value="true" />
+      <created>1780409075623</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780409075623</updated>
+    </task>
+    <task id="LOCAL-00008" summary="multiple excersice done">
+      <option name="closed" value="true" />
+      <created>1780410826484</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780410826484</updated>
+    </task>
+    <task id="LOCAL-00009" summary="First and last name">
+      <option name="closed" value="true" />
+      <created>1780413052162</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1780413052162</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Mananger">
+      <option name="closed" value="true" />
+      <created>1780413285825</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1780413285825</updated>
+    </task>
+    <task id="LOCAL-00011" summary="DISTINCT">
+      <option name="closed" value="true" />
+      <created>1780414093457</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1780414093457</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +187,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sql" />
     <MESSAGE value="sql updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="sql updated" />
+    <MESSAGE value="sql added asc in UnitPrice" />
+    <MESSAGE value="Unit price &lt; 7.50" />
+    <MESSAGE value="Unit price &lt; 7.50 corrected" />
+    <MESSAGE value="05 done" />
+    <MESSAGE value="multiple excersice done" />
+    <MESSAGE value="First and last name" />
+    <MESSAGE value="Mananger" />
+    <MESSAGE value="DISTINCT" />
+    <option name="LAST_COMMIT_MESSAGE" value="DISTINCT" />
   </component>
 </project>

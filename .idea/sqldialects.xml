@@ -4,6 +4,16 @@
     <file url="file://$PROJECT_DIR$/02_product_list.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/03_product_list_ascending.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/04_product_list.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_product_list.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/06_product_list.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/07_product_list.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/08_product_list.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/09_list_colums_and_rows.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/10_product_table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/11_Names.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/12_mananger.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/13_job_title.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/14_Salary.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
