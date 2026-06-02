@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72c7ed45-b63a-4860-9fc2-a8bc930aca27" name="Changes" comment="sql updated" />
+    <list default="true" id="72c7ed45-b63a-4860-9fc2-a8bc930aca27" name="Changes" comment="sql updated">
+      <change afterPath="$PROJECT_DIR$/03_product_list_ascending.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_product_list.sql" beforeDir="false" afterPath="$PROJECT_DIR$/02_product_list.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +33,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3EXzyL7NRZe5EhqYafHF014SS1D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -64,6 +70,18 @@
       <recent name="$PROJECT_DIR$/../workbook-7" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="02_product_list.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/02_product_list.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.02_product_list.sql" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="72c7ed45-b63a-4860-9fc2-a8bc930aca27" name="Changes" comment="" />
@@ -71,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780339956046</updated>
-      <workItem from="1780406986238" duration="847000" />
+      <workItem from="1780406986238" duration="1342000" />
     </task>
     <task id="LOCAL-00001" summary="sql">
       <option name="closed" value="true" />
